@@ -1,13 +1,17 @@
-EESchema-DOCLIB  Version 2.0  Date: Mon 16 Apr 2012 11:51:54 AM EDT
+EESchema-DOCLIB  Version 2.0  Date: Mon 16 Apr 2012 07:12:33 PM EDT
 #
 $CMP CONN_16
 D 16-pin Connector
 K CONN
 $ENDCMP
 #
-$CMP CONN_2x8
+$CMP CONN_2X8
 D 16-pin Connector
 K CONN
+$ENDCMP
+#
+$CMP DPDT
+D DPDT Switch
 $ENDCMP
 #
 #End Doc Library
