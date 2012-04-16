@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: Thu 21 Jul 2011 09:21:27 PM CDT
+#
+$CMP CC430F513X
+D MSP430 with Integrated CC1101 Radio
+K MSP430 CC1101
+$ENDCMP
+#
+#End Doc Library
