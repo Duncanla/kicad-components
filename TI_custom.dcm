@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Mon 16 Apr 2012 02:41:26 PM EDT
+EESchema-DOCLIB  Version 2.0  Date: Mon 16 Apr 2012 04:40:22 PM EDT
 #
 $CMP CC430F513X
 D MSP430 with Integrated CC1101 Radio
@@ -17,6 +17,10 @@ $ENDCMP
 #
 $CMP TPS62120DCN
 D TPS62120DCN DC/DC Converter in SOP8 Package
+$ENDCMP
+#
+$CMP TPS63700DRC
+D TPS63700 DC/DC Negative VoltageConverter in SON10 Package
 $ENDCMP
 #
 #End Doc Library
