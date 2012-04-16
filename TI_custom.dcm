@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Mon 16 Apr 2012 02:38:22 PM EDT
+EESchema-DOCLIB  Version 2.0  Date: Mon 16 Apr 2012 02:41:26 PM EDT
 #
 $CMP CC430F513X
 D MSP430 with Integrated CC1101 Radio
@@ -13,6 +13,10 @@ $ENDCMP
 $CMP MAVRK_SCI_PWR_CONN
 D MAVRK SCI Power Connector (Samtec UPT-06-03.0-01-L-V)
 K MAVRK Connector SCI
+$ENDCMP
+#
+$CMP TPS62120DCN
+D TPS62120DCN DC/DC Converter in SOP8 Package
 $ENDCMP
 #
 #End Doc Library
