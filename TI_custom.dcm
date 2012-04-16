@@ -1,8 +1,13 @@
-EESchema-DOCLIB  Version 2.0  Date: Mon 16 Apr 2012 10:17:39 AM EDT
+EESchema-DOCLIB  Version 2.0  Date: Mon 16 Apr 2012 10:23:35 AM EDT
 #
 $CMP CC430F513X
 D MSP430 with Integrated CC1101 Radio
 K MSP430 CC1101
+$ENDCMP
+#
+$CMP MARK_SCI_CONN
+D MAVRK SCI Connector (Samtec QRM8-026_02.0-L-D-A)
+K Connector MARK SCI
 $ENDCMP
 #
 #End Doc Library
