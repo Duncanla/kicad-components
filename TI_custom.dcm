@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Mon 16 Apr 2012 06:40:19 PM EDT
+EESchema-DOCLIB  Version 2.0  Date: Tue 17 Apr 2012 06:36:43 PM EDT
 #
 $CMP CC430F513X
 D MSP430 with Integrated CC1101 Radio
@@ -13,6 +13,10 @@ $ENDCMP
 $CMP MAVRK_SCI_PWR_CONN
 D MAVRK SCI Power Connector (Samtec UPT-06-03.0-01-L-V)
 K MAVRK Connector SCI
+$ENDCMP
+#
+$CMP OPA454AIDDA
+D OPA454AIDDA High Voltage, High Current Opamp
 $ENDCMP
 #
 $CMP SN74LVC1G08DCK
@@ -30,6 +34,10 @@ $ENDCMP
 #
 $CMP TS5A3159ADCK
 D TS5A3159ADCK SPDT Analog Switch
+$ENDCMP
+#
+$CMP TS5A3359DCU
+D TS5A3359DCU SP35 Analog Switch
 $ENDCMP
 #
 #End Doc Library
