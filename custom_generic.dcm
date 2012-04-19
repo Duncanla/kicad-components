@@ -1,17 +1,32 @@
-EESchema-DOCLIB  Version 2.0  Date: Tue 17 Apr 2012 11:04:59 PM EDT
+EESchema-DOCLIB  Version 2.0  Date: Wed 18 Apr 2012 09:52:07 PM EDT
 #
 $CMP CONN_16
 D 16-pin Connector
 K CONN
 $ENDCMP
 #
-$CMP CONN_2X8
-D 16-pin Connector
+$CMP CONN_1x2
+D Symbole general de connecteur
 K CONN
 $ENDCMP
 #
 $CMP CONN_3
 D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_4X2
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_5X2
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_8X2
+D 16-pin Connector
 K CONN
 $ENDCMP
 #
