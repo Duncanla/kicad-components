@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Wed 25 Apr 2012 03:54:17 PM EDT
+EESchema-DOCLIB  Version 2.0  Date: Wed 25 Apr 2012 05:29:06 PM EDT
 #
 $CMP CC430F513X
 D MSP430 with Integrated CC1101 Radio
@@ -38,6 +38,10 @@ $ENDCMP
 #
 $CMP TPS72325DBV
 D -2.5V, 200mA Negative Output LDO Voltage Regulator
+$ENDCMP
+#
+$CMP TPS73401DDC
+D 250mA Adjustable LDO
 $ENDCMP
 #
 $CMP TPS79901DDC
