@@ -1,11 +1,11 @@
-EESchema-DOCLIB  Version 2.0  Date: Wed 18 Apr 2012 09:52:07 PM EDT
+EESchema-DOCLIB  Version 2.0  Date: Fri 27 Apr 2012 10:57:26 AM EDT
 #
 $CMP CONN_16
 D 16-pin Connector
 K CONN
 $ENDCMP
 #
-$CMP CONN_1x2
+$CMP CONN_1X2
 D Symbole general de connecteur
 K CONN
 $ENDCMP
