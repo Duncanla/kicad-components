@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Tue 01 May 2012 10:17:38 PM EDT
+EESchema-DOCLIB  Version 2.0  Date: Tue 01 May 2012 10:19:19 PM EDT
 #
 $CMP CC430F513X
 D MSP430 with Integrated CC1101 Radio
@@ -17,6 +17,11 @@ $ENDCMP
 #
 $CMP OPA454AIDDA
 D OPA454AIDDA High Voltage, High Current Opamp
+$ENDCMP
+#
+$CMP SN74AUP1G58
+D Configurable Multiple-function gate
+K TTL REG DFF LATCH
 $ENDCMP
 #
 $CMP SN74LVC1G08DCK
