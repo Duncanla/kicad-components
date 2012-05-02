@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Tue 01 May 2012 09:25:17 PM EDT
+EESchema-DOCLIB  Version 2.0  Date: Tue 01 May 2012 09:52:42 PM EDT
 #
 $CMP CC430F513X
 D MSP430 with Integrated CC1101 Radio
@@ -27,6 +27,10 @@ $ENDCMP
 $CMP SN74LVC1G373
 D Single D-type latch. 1.65V-5.5V supply
 K TTL REG DFF LATCH
+$ENDCMP
+#
+$CMP TPS3809K33DBV
+D 3-pin Supply Voltage Supervisor
 $ENDCMP
 #
 $CMP TPS62120DCN
