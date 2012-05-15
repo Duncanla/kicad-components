@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Tue 01 May 2012 10:26:01 PM EDT
+EESchema-DOCLIB  Version 2.0  Date: Mon 14 May 2012 07:23:38 PM EDT
 #
 $CMP CC430F513X
 D MSP430 with Integrated CC1101 Radio
@@ -29,6 +29,10 @@ D Configurable Multiple-function gate
 K TTL REG DFF LATCH
 $ENDCMP
 #
+$CMP SN74LVC1G04
+D Single Inverter
+$ENDCMP
+#
 $CMP SN74LVC1G08DCK
 D SN74LVC1G08DCK Single And2 Gate
 K TTL and2
@@ -37,6 +41,10 @@ $ENDCMP
 $CMP SN74LVC1G373
 D Single D-type latch. 1.65V-5.5V supply
 K TTL REG DFF LATCH
+$ENDCMP
+#
+$CMP THS3121
+D High Output Drive Current Feedback Amplifier
 $ENDCMP
 #
 $CMP TPS3809K33DBV
