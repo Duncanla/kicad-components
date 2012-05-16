@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Fri 27 Apr 2012 12:55:42 PM EDT
+EESchema-DOCLIB  Version 2.0  Date: Wed 16 May 2012 02:46:59 AM EDT
 #
 $CMP CONN_16
 D 16-pin Connector
@@ -6,6 +6,11 @@ K CONN
 $ENDCMP
 #
 $CMP CONN_1X2
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_2X2
 D Symbole general de connecteur
 K CONN
 $ENDCMP
@@ -32,6 +37,10 @@ $ENDCMP
 #
 $CMP DPDT
 D DPDT Switch
+$ENDCMP
+#
+$CMP SHUNT
+D Shunt
 $ENDCMP
 #
 #End Doc Library
