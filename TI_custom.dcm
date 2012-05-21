@@ -1,8 +1,12 @@
-EESchema-DOCLIB  Version 2.0  Date: Wed 16 May 2012 03:23:53 AM EDT
+EESchema-DOCLIB  Version 2.0  Date: Mon 21 May 2012 03:41:50 PM EDT
 #
 $CMP CC430F513X
 D MSP430 with Integrated CC1101 Radio
 K MSP430 CC1101
+$ENDCMP
+#
+$CMP INA21xDCK
+D Current shunt monitor
 $ENDCMP
 #
 $CMP MARK_SCI_CONN
